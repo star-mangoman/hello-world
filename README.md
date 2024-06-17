@@ -1,2 +1,2 @@
 # hello-world
-getting my git and github things right
+getting my git and github things, right!
